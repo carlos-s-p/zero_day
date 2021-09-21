@@ -1,6 +1,6 @@
 # Welcome to My Second Project!
 
-This project will create....
+This project will create...
 
 
 # Files
